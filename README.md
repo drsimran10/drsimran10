@@ -25,9 +25,9 @@
           <li>🏥 <b>Currently Working On:</b> Medical Healthcare Analytics</li>
           <li>📊 <b>Specializing In:</b> Business Intelligence & Data Visualization</li>
           <li>🎯 <b>Looking For:</b> Business Analyst & Data Analyst opportunities in MNCs</li>
-          <li>📄 <b>Résumé:</b> Feel free to review my résumé, which outlines my academic background, analytical skill set, and experience with dashboard creation — <a href="https://github.com/drsimran10/resume/blob/main/DrSimran%20BA%20RESUME.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-Download%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume Badge"/>
-</a>
+          <li>📄 <b>Résumé:</b> Feel free to review my résumé, which outlines my academic background, analytical skill set, and experience with dashboard creation —  <a href="https://github.com/drsimran10/resume" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume Button"/>
+  </a>
           <li>💡 <b>Current Learning:</b> Advanced Python, SQL, and Machine Learning</li>
           <li>🎮 <b>Fun Fact:</b> I combine analytical thinking with gaming strategy!</li>
         </ul>
