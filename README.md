@@ -14,8 +14,11 @@
 <div align="center">
   <table>
     <tr>
-      <td width="350">
-       <img src="https://giffiles.alphacoders.com/121/12113.gif" width="300" alt="Data Analyst GIF"/>
+      <td width="350" align="center">
+        <img src="https://giffiles.alphacoders.com/121/12113.gif" width="300" alt="Data Analyst GIF"/>
+        <br><br>
+        <!-- Profile visitor badge -->
+        <img src="https://komarev.com/ghpvc/?username=drsimran10&label=Profile%20Visits&color=2196F3&style=for-the-badge" alt="Profile Views"/>
       </td>
       <td align="left">
         <ul>
@@ -30,6 +33,8 @@
     </tr>
   </table>
 </div>
+
+  
 
 ---
 
@@ -65,13 +70,26 @@
 ## 🛠️ Technical Arsenal
 
 <div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  </p>
+
+### Analytics & Visualization
+<p>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft 365"/>
+</p>
+
+### Data & Automation Tools
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+</p>
+
 </div>
+
 
 ---
 
