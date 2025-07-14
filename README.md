@@ -155,7 +155,7 @@
 </p>
 
 ### 📊 Tableau Public Portfolio
-<a href="https://public.tableau.com/profile/drsimran10">
+<a href="https://public.tableau.com/app/profile/simran.sharma6157/vizzes">
   <img src="https://img.shields.io/badge/View%20My%20Dashboards-Tableau%20Public-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Public"/>
 </a>
 
